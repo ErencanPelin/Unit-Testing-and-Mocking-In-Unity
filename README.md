@@ -115,6 +115,8 @@ Name it, `com.eren.workshop.runtime`
 
 ## Writing your first unit test
 - write first editor unit test for basic function
+- run test in IDE (transferable skill)
+- running tests in Unity Test Runner Window (convenience)
 
 ## Runtime unit testing
 - runtime unit testing: test character moves when key is pressed
