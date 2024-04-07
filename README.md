@@ -114,12 +114,19 @@ Name it, `com.eren.workshop.runtime`
 > - When you go back into Unity, Unity will rebuild your packages. Should anything go wrong, go back to step 16. and ensure you have done everything correctly
 
 ## Writing your first unit test
+- write first editor unit test for basic function
 
 ## Runtime unit testing
+- runtime unit testing: test character moves when key is pressed
 
 ## Writing a 'Good' unit test
+- assert for the correct thing
+- test 1 specific aspect only
+- tips for naming tests
+- using test cases
 
 ## Bonus Mocking and Interfaces
+- simulate components and interfaces during tests when using the real system is not possible
 
 ## Wrap up
 Thanks for joining in! Hope you learnt a tonne during the workshop, Unit testing is a really valuable skill, especially when you go into the industry so make sure you add it as a skill to your resume! You'll 100% be asked about it in interviews.
