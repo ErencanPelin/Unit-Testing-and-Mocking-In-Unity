@@ -22,6 +22,12 @@
 ---
 
 ## Introduction
+During the workshop: A quick introduction about me and what I do.
+
+Some Fun facts:
+- I interned at Atlassian
+- This year marks 10 years since I made my first Scratch game
+- I have a Youtube channel
 
 ## What is unit testing and why we use it
 
@@ -116,3 +122,11 @@ Name it, `com.eren.workshop.runtime`
 ## Bonus Mocking and Interfaces
 
 ## Wrap up
+Thanks for joining in! Hope you learnt a tonne during the workshop, Unit testing is a really valuable skill, especially when you go into the industry so make sure you add it as a skill to your resume! You'll 100% be asked about it in interviews.
+
+- I am 'Erencode' on Discord, feel free to send a DM if you have any questions, Or
+- Connect with me on LinkedIn https://www.linkedin.com/in/erencan-pelin/
+- Also subscribe to my channel on YouTube https://www.youtube.com/@ErenCode
+
+Final notes:
+- We used NUnit for unit testing in this workshop, there's many more frameworks out there which apply to different languages and libraries: Jest, React Testing Library, Enzyme, etc.
