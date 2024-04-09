@@ -36,16 +36,17 @@ Some Fun facts:
 ## Unity Project Setup
 ### Basics
 1. Create a new blank Unity project using version `2022.2.6f1`. The name of the project does not matter, but take note of where the project is created, we will be modifying some files in the Unity Project's packages folder manually later.
-2. Once the project is loaded, create 3 new folders in the Assets folder: `Editor`, `Runtime`, `Tests`
+2. Once the project is loaded, create a new folder called `Scripts`, and then create 3 new folders in side the 'Scripts' folder: `Editor`, `Runtime`, `Tests`
 3. Inside `Assets/Tests`, create 2 more folders, named `Editor` and `Runtime`
 4. Your folder hierarchy should be as follows:
 ```
-Assets
-- Editor
-- Runtime
-- Tests
+Scripts
+- Assets
     - Editor
     - Runtime
+    - Tests
+        - Editor
+        - Runtime
 ```
 5. We won't be writing any editor scripts in this workshop, but we'll add the folder anyway for good practice
 6. Go to `Window > Package Manager`. We will be downloading and importing some Unity packages required for testing
