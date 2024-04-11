@@ -1,7 +1,7 @@
 # Unit-Testing-and-Mocking-In-Unity
 
 > [!IMPORTANT]  
-> - We'll be using Unity version `2022.2.6f1`, the same version used in the subject: `Introduction To Game Development.`
+> - We'll be using Unity version `2022.3.24f1`, however the content should work in every version, the only difference being package versions
 > - We'll be sticking to best practices within Unity, including properly setting up our assemblies, folders and installing necessary packages
 > - I will be using JetBrains Rider as my IDE, but the coding and steps will be the same regardless of your preferred IDE
 
@@ -35,7 +35,7 @@ Some Fun facts:
 
 ## Unity Project Setup
 ### Basics
-1. Create a new blank Unity project using version `2022.2.6f1`. The name of the project does not matter, but take note of where the project is created, we will be modifying some files in the Unity Project's packages folder manually later.
+1. Create a new blank Unity project using version `2022.3.24f1`. The name of the project does not matter, but take note of where the project is created, we will be modifying some files in the Unity Project's packages folder manually later.
 2. Once the project is loaded, create a new folder called `Scripts` inside the `Assets` folder, and then create 3 new folders inside the 'Scripts' folder: `Editor`, `Runtime`, `Tests`
 3. Inside `Assets/Scripts/Tests`, create 2 more folders, named `Editor` and `Runtime`
 4. Your folder hierarchy should be as follows:
