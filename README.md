@@ -6,7 +6,7 @@
 > - I will be using JetBrains Rider as my IDE, but the coding and steps will be the same regardless of your preferred IDE
 
 > [!TIP]
-> - Downloading and important the required packages **may take time**, so It's **recommended** you skip to and complete the [Unity Project Setup](#unity-project-setup) section PRIOR to coming to the workshop.
+> - Downloading and importing the required packages **may take time**, so It's **recommended** you skip to and complete the [Unity Project Setup](#unity-project-setup) section PRIOR to coming to the workshop.
 
 ## Content
 1. [Introduction](#introduction)
